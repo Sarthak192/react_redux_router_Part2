@@ -1,0 +1,25 @@
+{
+  "streams": [
+    {
+      "title": "SignedOut",
+      "description": "SignedOut",
+      "id": 1
+    },
+    {
+      "title": "Again SignedOut",
+      "description": "Again SignedOut",
+      "id": 5
+    },
+    {
+      "title": "Change Me Cool!!!",
+      "description": "Change Me Cool!!!",
+      "id": 6
+    },
+    {
+      "title": "SignedIn",
+      "description": "SignedIn",
+      "userId": "107089785336359644405",
+      "id": 7
+    }
+  ]
+}
